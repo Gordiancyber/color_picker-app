@@ -1,1 +1,1 @@
-Public service
+A simple Color Picker app.
